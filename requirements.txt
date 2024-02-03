@@ -1,0 +1,20 @@
+pandas
+notebook
+tensorflow==2.12.0
+dvc
+scikit-learn
+matplotlib
+python-box
+pyYAML
+ensure
+joblib
+types-pyYAML
+Flask
+mlflow == 2.2.2
+tqdm
+Flask-Cors
+gdown
+gunicorn
+xgboost
+tens
+-e .
